@@ -1,0 +1,26 @@
+front page  = login.php
+patientHomepage = index.php
+**need to resolve home button
+
+patientHomepage(index.php)
+<a  name="logout">Logout</a>
+navbar logout
+
+only the patient part login and relavent things done. Next thing is to separate the indexes as now patient homepage is the temporary index
+
+//new thing 
+
+login is  becoming index
+other homepage will resume their charachteristics 
+resolve alluser data table for doctor type
+have to resolve all the homepage's button type to submit type
+
+
+//last update
+modification option still pending
+
+//13/12/18
+
+Have to do the rest modification things in admin side 
+Have to do the doctor side new patient things (may be by creating a new page to redirect it)
+Admin setting issue
