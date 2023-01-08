@@ -1,1 +1,1 @@
-# iCare
+Icare is a PHP websote designed to manage and organize patient information for healthcare providers. iCARE allows health care providers to store and manage patient records electronically, including medical history, diagnosis, medications, and treatment plans.
